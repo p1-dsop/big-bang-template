@@ -10,9 +10,9 @@ metadata:
   namespace: bigbang
 spec:
   interval: 1m
-  url: https://replace-with-your-git-repo.git
+  url: https://github.com/p1-dsop/big-bang-template
   ref:
-    branch: replace-with-your-branch
+    branch: bb2
   secretRef:
     name: private-git
 ---
